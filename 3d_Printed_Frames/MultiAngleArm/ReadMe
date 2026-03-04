@@ -1,0 +1,19 @@
+Step files for each part are located in their individual folders. .3mf files are located in the folder, 3DPrint_Slicer_Files, as well as the individual folders.
+
+Multi Angle Main Arm print files and filament type:
+  MAA_MainArm.3mf (ABS-GF)
+  MAA_Modifier_MainArm.3mf (Loaded as modifier in MAA_MainArm.3mf. 100% infill)
+  MAA_Pulleys.3mf (ABS)
+  
+Drilling Frame:
+  DrillFrame.3mf (ABS-GF)
+
+UCF:
+  MAA_UCF.3mf (ABS-GF)
+  CutterHeads_Nuts.3mf (ABS)
+  CutterHeads_Plain.3mf (ABS)
+  CutterHead_Round.3mf (ABS)
+  
+Cutter heads should be printed with a 0.08mm layer height.  The others may be printed with a 0.2mm layer height (0.08mm layer height is OK, but will take much longer to print).
+
+Insert cutter heads have CW and CCW versions. The round cutter head uses 0.125" engraving bits and can be configured for either CW or CCW.
