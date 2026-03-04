@@ -13,7 +13,9 @@ UCF:
   CutterHeads_Nuts.3mf (ABS)
   CutterHeads_Plain.3mf (ABS)
   CutterHead_Round.3mf (ABS)
-  
-Cutter heads should be printed with a 0.08mm layer height.  The others may be printed with a 0.2mm layer height (0.08mm layer height is OK, but will take much longer to print).
 
+Notes:
+Main arm should be printed on a raft to reduce warping.
+
+Cutter heads should be printed with a 0.08mm layer height.  The others may be printed with a 0.2mm layer height (0.08mm layer height is OK, but will take much longer to print).
 Insert cutter heads have CW and CCW versions. The round cutter head uses 0.125" engraving bits and can be configured for either CW or CCW.
