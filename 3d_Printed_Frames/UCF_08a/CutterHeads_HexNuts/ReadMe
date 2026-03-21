@@ -6,4 +6,7 @@ The TDHB uses an M2.2x0.45 or a #2-56 torx head insert screw. A #2-56 nut is use
  
 The TPGH uses M2.5x0.45 torx head insert screw and M2.5 nuts. 
 
+The TopLock is secured with ABS slurry (Acetone and ABS).  It provides more support for the insert.
+
 Print these with ABS. Gcode files are sliced for a Bambu X1C with a 0.4mm nozzle. Layer height is .08mm.
+
