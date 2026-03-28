@@ -1,5 +1,7 @@
 Step files for each part are located in their individual folders. .3mf files are located in the folder, 3DPrint_Slicer_Files, as well as the individual folders.
 
+Cutter heads are shared with UCF_08a.
+
 Multi Angle Main Arm print files and filament type:
   MAA_MainArm.3mf (ABS-GF)
   MAA_Modifier_MainArm.3mf (Loaded as modifier in MAA_MainArm.3mf. 100% infill)
